@@ -37,7 +37,7 @@ Use **Mustache** syntax, for example **{{#var}} something {{/var}}**
 Add this to your package's pubspec.yaml file:
 ```yaml
 dependencies:
-  pip_services3_commons: version
+  pip_services3_components: version
 ```
 
 Now you can install package from the command line:
