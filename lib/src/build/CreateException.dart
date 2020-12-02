@@ -2,8 +2,8 @@ import 'package:pip_services3_commons/pip_services3_commons.dart';
 
 /// Error raised when factory is not able to create requested component.
 ///
-/// See [https://rawgit.com/pip-services-node/pip-services3-commons-node/master/doc/api/classes/errors.internalexception.html InternalException] (in the PipServices 'Commons' package)
-/// See [https://rawgit.com/pip-services-node/pip-services3-commons-node/master/doc/api/classes/errors.applicationexception.html ApplicationException] (in the PipServices 'Commons' package)
+/// See [https://pub.dev/documentation/pip_services3_commons/latest/pip_services3_commons/InternalException-class.html InternalException] (in the PipServices 'Commons' package)
+/// See [https://pub.dev/documentation/pip_services3_commons/latest/pip_services3_commons/ApplicationException-class.html ApplicationException] (in the PipServices 'Commons' package)
 class CreateException extends InternalException {
   /// Creates an error instance and assigns its values.
   ///
